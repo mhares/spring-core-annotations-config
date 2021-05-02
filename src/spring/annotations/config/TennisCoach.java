@@ -39,7 +39,6 @@ public class TennisCoach implements Coach {
 		
 		return fortuneService.getFortune();
 	}
-	
 
 
 }
